@@ -8,8 +8,8 @@ hello ling!hello git!
 hello ling!hello git!
 hello ling!hello git!
 hello ling!hello git!
-hello ling!hello git!
 hello ling!hello git! master test
+hello ling!hello git! hot-fix test
 hello ling!hello git!
 hello ling!hello git!
 hello ling!hello git!
